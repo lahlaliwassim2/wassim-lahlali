@@ -1,4 +1,4 @@
-le 09/11/2021
+#le 09/11/2021
 
 *Qu'est ce qu'on a fait ?
   Nous avons fait :
@@ -17,3 +17,18 @@ on a appris comment verifier le cléés ssh .
 on va l utuliser pour travailler en equipe sur un projet parceque  Git permet de cordonner
 le travail entre plusieurs personnes en conservant un historique de changements effectues
 sur des fichiers.
+
+#le 10\11\2021
+*Qu'est ce qu'on a fait ?
+Au debut on a fais un quiz pour nous evaluer et pour trouver les choses qu on a pas bien appris 
+apres on a fait une recherche sur le langage C et on a ecris une paragraphe qui resume notre recherche .
+Apres on a instaler l envirenement de travail sur le langage puis afin de realiser des simple programme .
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+On a appris comment declarer une variable et comment l affecter pour realiser des programmes et aussi on a appris les etapes pour 
+pratiquer  la méthode Feynman qui va nous aider dans notre parcour pour bien maitriser notre cours 
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+A propos de la methode je vais l utuliser dans tous les sujets ou bien les cours pour bien compris les choses 
+et le langage C va m'aider de realiser des programmes 
+
+
