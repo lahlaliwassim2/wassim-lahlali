@@ -1,0 +1,5 @@
+Le 09/11/2021
+Dans la classe du matin, nous avons appris comment créer un compte sur github et comment instaler git .
+Tout d’abord 
+le github est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées 
+le git  est un logiciel de gestion de version décentralisé . C'est un logiciel libre  créé par Linus Torvalds 
