@@ -1,0 +1,17 @@
+les commandes de git:
+git config : pour configurer les préférences de l’utilisateur : son mail, 
+l’algorithme utilisé pour diff, le nom d’utilisateur et le format de fichier .
+
+git init: initialisation d'un répertoire
+git status : affiche le statut
+git add (file) : ajoute un fichier
+git delete(file): suprimmer un fichier 
+git comit -m "the message" : creer un comit avec message 
+git log : affiche les commits antérieures  à l'actif
+ git branch (branch) : creer une branche 
+git branch -v :affiche les branches courantes
+git checkout (parameters) switch sur une branche ou un commit 
+git checkout -b(branch_name) :creer une nouvelle branche et switch dessuds
+git merge (branch) : fusionne la branche citée et le branche active 
+git push : pour envoyer les modifications au serveur Git 
+git remote -v : pour verifiere le fichier et une repo 

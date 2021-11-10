@@ -1,0 +1,19 @@
+le 09/11/2021
+
+*Qu'est ce qu'on a fait ?
+  Nous avons fait :
+-L'instalation de Git 
+_Creations de compte sur Github
+-configuration de Git 
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+A travers ce qu'on a fait on a appris comment installer 
+et configurer Git et comment creer un repertoire(repository)et comment 
+le cloner sur notre machine a travers les commandes,
+on a aussi appris comment creer des dossier et des fichiers et comment les transferer sur github.
+on a appris comment verifier le cléés ssh .
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+on va l utuliser pour travailler en equipe sur un projet parceque  Git permet de cordonner
+le travail entre plusieurs personnes en conservant un historique de changements effectues
+sur des fichiers.
