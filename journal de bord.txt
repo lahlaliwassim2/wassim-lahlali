@@ -46,6 +46,26 @@ bagages sur la programmation , jour apres jours on avance et on  aprend des nouv
 
 
 
+#le12/11/2021
+*Qu'est ce qu'on a fait ?
+on a terminer le challenge de VARIABLES et on a commencé le desième challenge de CONDITIONS .
+j'ai fais une recherche sur les conditions sur google et j ais vu des videos sur youtube
+j ai travaillé sur les premiers sujets de challenge 2 .
+
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+on a apris comment saisire des programme en utulisant des doncitions comme :
+-*if*
+-*if else*
+-*else*
+-*while*
+
+
+
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+creer des programme sur langage C avec s'implicitée en utulisant les conditions .
+
 
 
 
