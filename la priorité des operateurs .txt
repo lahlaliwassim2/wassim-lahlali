@@ -1,0 +1,14 @@
+********************La priorité des opérateurs*************
+
+
+.Le langage C nous permet d’en réaliser cinq opérations de base.
+  -l’addition (opérateur +) ;
+  -la soustraction (opérateur -) ;
+  -la multiplication (opérateur *) ;
+  -la division (opérateur /) ;
+  -le modulo (opérateur %).
+
+
+.la priorité des opération  
+      -Comme en mathématiques, certains opérateurs passentavant d’autres : 
+les opérateurs * / % ont une priorité supérieure par rapport aux opérateurs + - .
