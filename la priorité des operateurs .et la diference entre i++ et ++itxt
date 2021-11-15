@@ -12,3 +12,10 @@
 .la priorité des opération  
       -Comme en mathématiques, certains opérateurs passentavant d’autres : 
 les opérateurs * / % ont une priorité supérieure par rapport aux opérateurs + - .
+
+
+
+*********************La diference entre i++ et ++i************
+ .
+-i++ affecte puis incrémente la valeur , mais retournera la valeur d’origine avant d’être incrémenté.
+-++i incrémentera la valeur de i, puis retournera la valeur incrémentée.
