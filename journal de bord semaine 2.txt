@@ -1,5 +1,6 @@
 
 
+
 #le 15\11\2021
 
 
@@ -23,4 +24,29 @@ On a appris comment on utulise les boucles comme :
 *Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
 on va l utuliser pour developer notre bagages sur la programation .
 comme toujours ,chaque jours on apprend des nouveaus point et informations
-qui nous permetres de ameliorer notre programme 
+qui nous permetres de ameliorer notre programme
+
+
+
+#le 15\11\2021 
+
+
+
+*Qu'est ce qu'on a fait ?
+on a commencé par live coding 
+mois et mes collegues on a fair des programmes en public 
+apres le groupe de "brogrammers" nous a presenté un sujet sur l algorithme
+ 
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+ la presentation de l algorithme est passé par :
+-presentation de l algorithme.
+-l histoire de l algorithme .
+-pseudocode LDA facon de decrire un algorithme en langage presque naturel .
+-la declaration et les ttpes de données.
+-linear shearch 
+-binary shearch 
+-complixité
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+On va l utuliser pour ecrire notre algorithme pour facilitée et pour trouvée la complixité 
