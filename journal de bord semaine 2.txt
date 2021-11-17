@@ -23,4 +23,6 @@ On a appris comment on utulise les boucles comme :
 *Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
 on va l utuliser pour developer notre bagages sur la programation .
 comme toujours ,chaque jours on apprend des nouveaus point et informations
-qui nous permetres de ameliorer notre programme 
+qui nous permetres de ameliorer notre programme .
+
+#le 15\11\2021
