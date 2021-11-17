@@ -52,7 +52,32 @@ apres le groupe de "brogrammers" nous a presenté un sujet sur l algorithme
 *Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
 On va l utuliser pour ecrire notre algorithme pour facilitée et pour trouvée la complixité 
 =======
-qui nous permetres de ameliorer notre programme .
+qui nous permetres de ameliorer notre programme 
+faire l algorithme de projet permet de simplicitée les choses .
 
-#le 15\11\2021
->>>>>>> 82efbb71481845ec437904e300f4182a4618cbf5
+
+
+
+#le 16\11\2021
+
+
+
+
+*Qu'est ce qu'on a fait ?
+on contunué notre challenge sur les boucles 
+on a travailler sur des projet un peut dificile 
+
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+
+on a apris comment simplicité le programme a partir de l algorithme 
+et comment trouver les problemmes et comment l evité
+
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+
+on va l utuliser pour eviter et resoudre les problemmes 
+et comment ne perde pas le temps 
+et comment etre un programme non juste codeur .
+
+
