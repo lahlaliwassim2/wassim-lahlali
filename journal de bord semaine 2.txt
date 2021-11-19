@@ -29,7 +29,7 @@ qui nous permetres de ameliorer notre programme
 
 
 
-#le 15\11\2021 
+#le 16\11\2021 
 
 
 
@@ -58,7 +58,7 @@ faire l algorithme de projet permet de simplicitée les choses .
 
 
 
-#le 16\11\2021
+#le 17\11\2021
 
 
 
@@ -79,5 +79,26 @@ et comment trouver les problemmes et comment l evité
 on va l utuliser pour eviter et resoudre les problemmes 
 et comment ne perde pas le temps 
 et comment etre un programme non juste codeur .
+
+
+
+
+
+#le 17\11\2021
+
+
+*Qu'est ce qu'on a fait ?
+
+On a travailler sur des challenge qui traite des sujet on a travailler les boucles et les fonctions et 
+on a reçu notre projet qu on va travailler sur l evaluation de periode SAS .
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+on an appris comment travailler avec les boucles et les fonctions et on aussi on a  documenter sus de techniques de l algotithme comme 
+merge sort algorithme , quik sort qui nous permet de resoudre des problemes avant de passer a coder .
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+on va l utuliser pour rendre notre projet simple 
+les methode qu on appris perment de simplicitée les problemes.
+
 
 
