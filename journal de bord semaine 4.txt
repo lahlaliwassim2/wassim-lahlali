@@ -1,0 +1,33 @@
+#le 30\11\2021
+
+
+
+
+
+*Qu'est ce qu'on a fait ?
+
+Au debut on a felicitée notre camarades pour la réussite a la periode SAS 
+, Apres on vue le plan de cet année et on a vue la methode qu on va travailler avec
+elle . 
+Puis on a accordé des regles qu on va les respecter pendant toute la formation .
+apres on a passer a la documentation sur le fonctionnement de web .
+
+
+
+
+
+
+
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+
+
+on a apris comment fonction le sit web et on a apris la diference entre le web et l internet 
+, on apris la sinification de gachette , serveur , HTTP , URLs.
+on a apris comment fonctionne le serveur .
+
+
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+on va l utuliser pour devloper notre connessance sur le devolopement , et pour creer des site web .
+
