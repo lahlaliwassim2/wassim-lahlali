@@ -31,3 +31,40 @@ on a apris comment fonctionne le serveur .
 *Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
 on va l utuliser pour devloper notre connessance sur le devolopement , et pour creer des site web .
 
+
+#le 01\12\2021
+
+
+
+*Qu'est ce qu'on a fait ?
+on a fais une presentation sur le fonctionnement de web , et on a aussi fais une presentation sur les competances qu an 
+va atraper dans notre formation .
+On a aussi fais un schema de programme de notre formation et les niveau de competance de chaque semaine .
+
+
+*Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+on a apris comment fonctionne le web et la diference entre le web et l internet 
+et on a apris une idée sur les competence qu on  va l apris pour etre bien dans le marcher de travail.
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+on va l utuliser pour devloper notre connessance sur le devolopement , et pour creer des site web facilement .
+
+
+
+#le 02\12\2021
+
+
+*Qu'est ce qu'on a fait ?
+On a fais une documentation sur l HTML et CSS et on a fais notre premier projet on utulisant les connaissence
+qu on  a apris dans notre formation , on a aussi fais un quiz par groupe ,ce  quiz a poser des question sur le git et github 
+et sur le fonctionnement de web et aussi sur l HTML et CSS .
+
+
+ *Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+on a apris le fonctionnement de Html et la difinition de l HTML et les balise et les types des balise 
+et on a aussi apris comment fais une liason entre HTML et CSS .
+
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+comme vous savez Les langages HTML et CSS sont fondamentaux pour devenir développeur Web,donc il est important de les maitriser .
+ 
