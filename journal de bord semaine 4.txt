@@ -55,16 +55,36 @@ on va l utuliser pour devloper notre connessance sur le devolopement , et pour c
 
 
 *Qu'est ce qu'on a fait ?
-On a fais une documentation sur l HTML et CSS et on a fais notre premier projet on utulisant les connaissence
-qu on  a apris dans notre formation , on a aussi fais un quiz par groupe ,ce  quiz a poser des question sur le git et github 
-et sur le fonctionnement de web et aussi sur l HTML et CSS .
+On a fais une documentation sur l HTML et CSS et on a fais notre premier
+ projet on utulisant les connaissencequ on  a apris dans notre formation ,
+ on a aussi fais un quiz par groupe ,ce  quiz a poser des question sur 
+le git et github et sur le fonctionnement de web et aussi sur l HTML et CSS .
 
 
  *Qu'est ce qu'on a appris à travers ce qu'on a fait ?
-on a apris le fonctionnement de Html et la difinition de l HTML et les balise et les types des balise 
-et on a aussi apris comment fais une liason entre HTML et CSS .
+on a apris le fonctionnement de Html et la difinition de l HTML
+ et les balise et les types des balise et on a aussi apris 
+comment fais une liason entre HTML et CSS .
 
 
 *Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
-comme vous savez Les langages HTML et CSS sont fondamentaux pour devenir développeur Web,donc il est important de les maitriser .
+comme vous savez Les langages HTML et CSS sont fondamentaux pour devenir 
+développeur Web,donc il est important de les maitriser .
  
+
+
+#le 03\12\2021
+*Qu'est ce qu'on a fait ?
+On a commencer a travaillé sur le deusiéme brief et on a été present
+dans une presentation qui est fais par un groupe .
+
+ *Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+On appris a travailler par des nouveau balise et on a appris la 
+différence entre un element et un tag , et on a appris c est quoi le
+html dom .
+ 
+
+
+*Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+comme vous savez Les langages HTML et CSS sont fondamentaux pour devenir développeur
+ Web,donc il est important  de les maitriser .
