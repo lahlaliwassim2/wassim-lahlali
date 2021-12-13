@@ -28,3 +28,60 @@ et l’importane de MOBILE FIRST et c’est Quoi le MOBILE FIRST
 Il va nous aider si on veut créer des sites webs donc il faut mieux de commmencer par Mobile First 
 et Aprés On va faire tous les étapes de SEO pour que notre site soit toujours dans les premiéres Pages. 
 
+
+
+#le 08\12\2021
+
+*Qu'est ce qu'on a fait ?
+j ai terminer mon travail sur brief 3 et j ai fais la partie de responsivitée pui je l ai met dans mon repo github .
+apres j ai doccumenter sur le maquettage .
+
+
+2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+on a appris comment ça marche la responsivitée et on connus l importance de maquettage et les types de maquettage et les logiciels de travail.
+
+3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
+
+
+il va nous aider a bien styliser notre sit et bien communiquer avec les autres devlopeurs par ce que le maquettage donne une vision sur la structure de style de notre page a coder .
+
+
+#le 09\12\2021
+
+
+*Qu'est ce qu'on a fait ?
+
+on a commancer par le daylé standup puis on a passer a notre travail pour terminer le travail sur notre brief num 4 
+
+
+2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+
+on a apris a travailler en groupe et le partage des informations , on a aussi appris l importance de mobil first et pourquoi on doit appliquer la methode de mobil first 
+
+
+
+
+3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
+
+
+il va nous aider a bien styliser notre sit et bien communiquer avec les autres devlopeurs par ce que le maquettage donne une vision sur la structure de style de notre page a coder .
+
+
+#le 10\12\2021
+
+
+*Qu'est ce qu'on a fait ?
+
+on a fait une documentation sur les sélecteurs en css et les pseudo elements et pseudo classe
+et on a vu une présentation de Squad 4 programmers sur les Position sur Csset sur les selecteurs
+
+2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+
+on a appris comment la position ça marche sur CSS , et les selecteurs et les types de selecteurs et la différence entre eux .
+
+3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
+
+
+il va nous aider a bien styliser notre sit et bien communiquer avec les autres devlopeurs par ce que le maquettage donne une vision sur la structure de style de notre page a coder .
+
+
