@@ -1,0 +1,20 @@
+#le 13\12\2021
+
+
+*Qu'est ce qu'on a fait ?
+Au debut on a terminer notre brief , Apres on a commencer notre brief 5 de la reproduction d un désigne d un site web 
+apres le groupe de ' 4 PROGRAMMERS' on terminer leurs presentation ,ils ont parlé sur plusieurs sujets comme :
+-Float
+-la specifitée
+-Box model
+
+
+
+2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+on a appris bien comment travailer avec Adobe xd et comment lier des pages entre eux ou bien des liens et des page 
+par exemple le boton de menu .
+et on a aussi comment travailler box models et comment déviser notre programme a des rectangles pour simplifier notre code 
+
+
+3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
+il va l utuliser dans notre projet pour bien styliser notre page et bien communiquer avec les autres programmeurs et les clients 
