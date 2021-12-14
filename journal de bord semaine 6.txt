@@ -17,4 +17,22 @@ et on a aussi comment travailler box models et comment déviser notre programme 
 
 
 3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
-il va l utuliser dans notre projet pour bien styliser notre page et bien communiquer avec les autres programmeurs et les clients 
+il va l utuliser dans notre projet pour bien styliser notre page et bien communiquer avec les autres programmeurs et les clients
+
+
+ #le 14\12\2021
+
+1 Qu'est ce qu'on a fait ?
+On a commencer par le travail sur le brief 5 , on a terminer le brief apres on a reçu le brief 6 , qui est basé sur le travail en groupe .
+on a doccumenter sur les moyens de travail qu on a besoin et la bonne methode pour travailler en groupe , on a  recontrer un journal électronique marocain HESPRESS .
+on a creer un tableau SCRUM et on a separer les taches entre nous et on a decider la methode comment on va travailler .
+
+2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+
+on a apprir la methode github flow et la methode de tableau SCRUM ,comment separer les taches entre groupes et comment gerer notre repo sur github .
+Aussi on a appris comment travailler serieusement en groupe 
+et comment creer un envirenement de traval et comment travailler en professionnel,
+
+3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
+
+on va l utuliser dans notre future quand on va travailler en groupes .
