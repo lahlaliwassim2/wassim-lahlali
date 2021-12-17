@@ -23,11 +23,14 @@ il va l utuliser dans notre projet pour bien styliser notre page et bien communi
  #le 14\12\2021
 
 1 Qu'est ce qu'on a fait ?
+
+
 On a commencer par le travail sur le brief 5 , on a terminer le brief apres on a reçu le brief 6 , qui est basé sur le travail en groupe .
 on a doccumenter sur les moyens de travail qu on a besoin et la bonne methode pour travailler en groupe , on a  recontrer un journal électronique marocain HESPRESS .
 on a creer un tableau SCRUM et on a separer les taches entre nous et on a decider la methode comment on va travailler .
 
 2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+
 
 on a apprir la methode github flow et la methode de tableau SCRUM ,comment separer les taches entre groupes et comment gerer notre repo sur github .
 Aussi on a appris comment travailler serieusement en groupe 
@@ -36,3 +39,19 @@ et comment creer un envirenement de traval et comment travailler en professionne
 3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
 
 on va l utuliser dans notre future quand on va travailler en groupes .
+
+
+ #le 15\12\2021
+
+1 Qu'est ce qu'on a fait ?
+on a commencer par une sceance de CME  on a presenter des sujets par groupes , apres on a commencer a travailler sur notre projet en groupe .
+
+2- Qu’est ce qu’on a appris à travers ce qu’on fait?
+on a appris comment parler devant un public et on a appris grace a la video de notre presentation nos defauts
+et on a appris a travailler sur un projet par groupe a traver github flow .
+
+
+
+
+3- Comment on va utiliser ce qu’on a fait dans un contexte réel ?
+on va l utuliser dans le future pour realiser de projet en groupe .
