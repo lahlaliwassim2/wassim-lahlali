@@ -1,0 +1,25 @@
+#semaine 1 
+-------------le 03/01/2022----------------
+*Qu'est ce qu'on a fait ?
+
+
+
+On a commencer par un delais standup  pour parler un peut sur le plan de la semmaine , apres mon groupe a fait une petite reunion pour 
+voir le niveau actuelle de chaquin de nous et pour terminer notre programme  que nous nous sommes mis d'accord  , apres on ebuter notre travail 
+sur notre projet afin de creer le repo sur github .
+
+
+
+
+
+**Qu'est ce qu'on a appris à travers ce qu'on a fait ?
+
+
+
+On a appris comment travailler avec la technique BEM et on a un peut maitriser avec la pratique car ce projet et notre deusieme projet qu on va  utuliser le workflow"github flow"
+pour travailler sur notre projet  en groupe . 
+
+
+
+****Comment on va utiliser ce qu'on a appris dans un cotexte réel ?
+on va l utulise dans le future pour bien gerer les taches de projet qu on va travailler 
